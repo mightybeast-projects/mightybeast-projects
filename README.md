@@ -2,12 +2,10 @@
 
 `//TODO: Ask Mr.GPT to generate GitHub profile summary.`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mightybeast-projects&show_icons=true&theme=codeSTACKr) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mightybeast-projects&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## **Skills**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mightybeast-projects&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 ### Dev stack
 [![Dotnet](https://img.shields.io/badge/dotnet-black?style=for-the-badge&logo=dotnet&logoColor=black&labelColor=orange)](#)
 [![C#](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=csharp&logoColor=black&labelColor=orange)](#)
@@ -43,6 +41,8 @@
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=black&labelColor=orange)](#)
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=black&labelColor=orange)](#)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mightybeast-projects&show_icons=true&theme=codeSTACKr)
 
 ---
 
