@@ -46,7 +46,7 @@
 
 ---
 
-## **Contact Me**
+## **Socials**
 <a href="https://www.linkedin.com/in/yevhenii-yefremov/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=black&labelColor=orange" alt="LinkedIn">
 </a>
