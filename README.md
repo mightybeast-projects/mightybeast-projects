@@ -45,7 +45,7 @@
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=black&labelColor=orange)](#)
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mightybeast-projects&show_icons=true&theme=codeSTACKr">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightybeast-projects&layout=compact&theme=codeSTACKr">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mightybeast-projects&layout=compact&theme=codeSTACKr">
 
 ---
 
