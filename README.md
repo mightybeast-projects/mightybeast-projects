@@ -44,8 +44,8 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=black&labelColor=orange)](#)
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=black&labelColor=orange)](#)
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mightybeast-projects&show_icons=true&theme=codeSTACKr)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mightybeast-projects&layout=compact&theme=codeSTACKr)](#)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mightybeast-projects&show_icons=true&theme=codeSTACKr">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightybeast-projects&layout=compact&theme=codeSTACKr">
 
 ---
 
