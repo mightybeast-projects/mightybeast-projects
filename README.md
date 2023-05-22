@@ -1,4 +1,4 @@
-# **Hello there, my name is Eugene!**
+# 👋 **Hello there, my name is Eugene!**
 
 `//TODO: Ask Mr.GPT to generate GitHub profile summary.`
 
@@ -27,6 +27,7 @@
 [![Godot](https://img.shields.io/badge/Godot-black?style=for-the-badge&logo=godotengine&logoColor=black&labelColor=orange)](#)
 [![OAuth](https://img.shields.io/badge/OAuth-black?style=for-the-badge&logo=auth0&logoColor=black&labelColor=orange)](#)
 [![AdSense](https://img.shields.io/badge/AdSense-black?style=for-the-badge&logo=googleadsense&logoColor=black&labelColor=orange)](#)
+[![MSAzure](https://img.shields.io/badge/MSAzure-black?style=for-the-badge&logo=microsoftazure&logoColor=black&labelColor=orange)](#)
 [![UnityAds](https://img.shields.io/badge/Unity_Ads-black?style=for-the-badge&logoColor=black&labelColor=orange)](#)
 [![LibGDX](https://img.shields.io/badge/LibGDX-black?style=for-the-badge&logo=LibGDX&logoColor=black&labelColor=orange)](#)
 [![Kryonet](https://img.shields.io/badge/Kryonet-black?style=for-the-badge&logoColor=black&labelColor=orange)](#)
