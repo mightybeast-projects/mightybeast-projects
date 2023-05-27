@@ -1,0 +1,37 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+f f",
+        "command": "testing.runAll"
+    },
+    {
+        "key": "ctrl+; a",
+        "command": "-testing.runAll"
+    },
+    {
+        "key": "ctrl+f g",
+        "command": "git-graph.view"
+    },
+    {
+        "key": "ctrl+f r",
+        "command": "testing.refreshTests",
+        "when": "testing.canRefresh"
+    },
+    {
+        "key": "ctrl+; ctrl+r",
+        "command": "-testing.refreshTests",
+        "when": "testing.canRefresh"
+    },
+    {
+        "key": "ctrl+f s",
+        "command": "csharp-helper.fix-filename"
+    },
+    {
+        "key": "ctrl+f c",
+        "command": "testing.clearTestResults"
+    },
+    {
+        "key": "ctrl+f n",
+        "command": "csharp-helper.fix-namespace"
+    }
+]

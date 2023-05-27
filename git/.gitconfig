@@ -1,0 +1,12 @@
+[core]
+	editor = \"E:\\Tools\\Microsoft VS Code\\bin\\code\" --wait
+[alias]
+	comfeat = !sh -c 'git add -A && git commit -m \"-feat- : $1\"' -
+	comfix = !sh -c 'git add -A && git commit -m \"-fix- : $1\"' -
+	comchore = !sh -c 'git add -A && git commit -m \"-chore- : $1\"' -
+	comref = !sh -c 'git add -A && git commit -m \"-refactor- : $1\"' -
+	complastic = !sh -c 'git add -A && git commit -m \"-chore- : Migrated from Plastic SCM.\"' -
+	comgarbage = !sh -c 'git add -A && git commit -m \"-chore- : Pure garbage.\"' -
+[user]
+	name = MightyBeast
+	email = zgpoter@gmail.com

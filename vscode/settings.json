@@ -1,0 +1,48 @@
+{
+    "workbench.colorTheme": "Darcula Theme from IntelliJ",
+    "workbench.colorCustomizations": {
+        "[Darcula Theme from IntelliJ]": {
+            "button.background": "#ff6200",
+            "inputOption.activeForeground": "#ff6200",
+            "selection.background": "#ff6200",
+            "textLink.foreground": "#ff6200",
+            "textLink.activeForeground": "#ff6200",
+            "focusBorder": "#ff6200",
+            "tab.inactiveBackground": "#202020",
+            "activityBar.activeBorder": "#ff6200",
+            "activityBar.background": "#000000",
+            "activityBar.foreground": "#ff6200",
+            "activityBarBadge.background": "#ff6200",
+            "sideBar.background": "#0e0e0e",
+            "list.activeSelectionBackground": "#ff6200c7",
+            "editorSuggestWidget.background": "#0e0e0e",
+            "editorSuggestWidget.border": "#000000",
+            "editorSuggestWidget.highlightForeground": "#ff6200",
+            "editorSuggestWidget.focusHighlightForeground": "#ffffff",
+            "statusBar.background": "#000000",
+            "statusBar.foreground": "#ff6200",
+            "editor.background": "#161616",
+            "editor.selectionBackground": "#ff62007e"
+        }
+    },
+    "git.enableSmartCommit": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontSize": 18,
+    "editor.rulers": [
+        80
+    ],
+    "window.zoomLevel": 0.5,
+    "terminal.integrated.fontSize": 18,
+    "dotnet-test-explorer.codeLensPassed": "Passed",
+    "dotnet-test-explorer.codeLensFailed": "Failed",
+    "dotnet-test-explorer.codeLensSkipped": "Skipped",
+    "dotnet-test-explorer.addProblems": false,
+    "dotnet-test-explorer.treeMode": "full",
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}
