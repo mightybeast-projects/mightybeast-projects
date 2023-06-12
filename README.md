@@ -21,6 +21,7 @@
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=orange)](#)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=black&labelColor=orange)](#)
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=orange)](#)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=black&labelColor=orange)](#)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logoColor=black&labelColor=orange)](#)
 
 ### Other technologies
