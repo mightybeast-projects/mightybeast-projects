@@ -1,11 +1,3 @@
-<style>
-    h1, h2, h3
-    {
-        color: white;
-        text-decoration: none;
-    }
-</style>
-
 <h1>👋 Hello there, my name is Eugene!</h1>
 
 `//TODO: Ask Mr.GPT to generate GitHub profile summary.`
