@@ -74,6 +74,7 @@
 <style>
     h1, h2, h3
     {
-        color: white
+        color: white;
+        text-decoration: none;
     }
 </style>
