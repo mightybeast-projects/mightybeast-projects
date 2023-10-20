@@ -70,10 +70,3 @@
 ---
 
 <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mightybeast-projects&layout=compact&theme=codeSTACKr">
-
-<style>
-    a {
-        color: white;
-        text-decoration: none;
-    }
-</style>
