@@ -1,9 +1,9 @@
-<h1>👋 Hello there, my name is Eugene!</h1>
+# 👋 Hello there, my name is Eugene!
 
 `//TODO: Ask Mr.GPT to generate GitHub profile summary.`
 
-<h2>Skills</h2>
-<h3>Web dev stack</h3>
+## Skills
+### Web dev stack
 
 [![C#](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=csharp&logoColor=black&labelColor=orange)](#)
 [![ASP.Net](https://img.shields.io/badge/ASP.Net-black?style=for-the-badge&logo=dotnet&logoColor=black&labelColor=orange)](#)<br/>
@@ -15,13 +15,13 @@
 [![JQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=black&labelColor=orange)](#)<br/>
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=orange)](#)
 
-<h3>Game dev stack</h3>
+### Game dev stack
 
 [![C#](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=csharp&logoColor=black&labelColor=orange)](#)
 [![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=black&labelColor=orange)](#)
 [![.Net Core](https://img.shields.io/badge/.NetCore-black?style=for-the-badge&logo=dotnet&logoColor=black&labelColor=orange)](#)
 
-<h3>Other languages</h3>
+### Other languages
 
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=orange)](#)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=black&labelColor=orange)](#)
@@ -29,7 +29,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=black&labelColor=orange)](#)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logoColor=black&labelColor=orange)](#)
 
-<h3>Other frameworks / technologies / libraries</h3>
+### Other frameworks / technologies / libraries
 
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&labelColor=orange)](#)
 [![Godot](https://img.shields.io/badge/Godot-black?style=for-the-badge&logo=godotengine&logoColor=black&labelColor=orange)](#)
@@ -44,18 +44,18 @@
 [![JSP](https://img.shields.io/badge/JSP-black?style=for-the-badge&logoColor=black&labelColor=orange)](#)
 [![EJS](https://img.shields.io/badge/EJS-black?style=for-the-badge&logoColor=black&labelColor=orange)](#)
 
-<h3>Testing / methodologies</h3>
+### Testing / methodologies
 
 [![NUnit](https://img.shields.io/badge/NUnit-black?style=for-the-badge&logo=&logoColor=black&labelColor=orange)](#)
 [![Moq](https://img.shields.io/badge/Moq-black?style=for-the-badge&logo=&logoColor=black&labelColor=orange)](#)
 [![TDD](https://img.shields.io/badge/TDD-black?style=for-the-badge&logo=&logoColor=black&labelColor=orange)](#)
 
-<h3>OS</h3>
+### OS
 
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=black&labelColor=orange)](#)
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=black&labelColor=orange)](#)
 
-<h3>Socials</h3>
+### Socials
 
 <a href="https://www.linkedin.com/in/yevhenii-yefremov/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=black&labelColor=orange" alt="LinkedIn">
@@ -70,3 +70,10 @@
 ---
 
 <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mightybeast-projects&layout=compact&theme=codeSTACKr">
+
+<style>
+    a {
+        color: white;
+        text-decoration: none;
+    }
+</style>
