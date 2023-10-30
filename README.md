@@ -19,6 +19,7 @@
 
 [![C#](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=csharp&logoColor=black&labelColor=orange)](#)
 [![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=black&labelColor=orange)](#)
+[![MonoGame](https://img.shields.io/badge/MonoGame-black?style=for-the-badge&logo=monogame&logoColor=black&labelColor=orange)](#)
 [![.Net Core](https://img.shields.io/badge/.NetCore-black?style=for-the-badge&logo=dotnet&logoColor=black&labelColor=orange)](#)
 
 ### Other languages
@@ -37,12 +38,16 @@
 [![AdSense](https://img.shields.io/badge/AdSense-black?style=for-the-badge&logo=googleadsense&logoColor=black&labelColor=orange)](#)
 [![MSAzure](https://img.shields.io/badge/MSAzure-black?style=for-the-badge&logo=microsoftazure&logoColor=black&labelColor=orange)](#)
 [![UnityAds](https://img.shields.io/badge/Unity_Ads-black?style=for-the-badge&logoColor=black&labelColor=orange)](#)
-[![LibGDX](https://img.shields.io/badge/LibGDX-black?style=for-the-badge&logo=LibGDX&logoColor=black&labelColor=orange)](#)
-[![Kryonet](https://img.shields.io/badge/Kryonet-black?style=for-the-badge&logoColor=black&labelColor=orange)](#)
+[![LibGDX](https://img.shields.io/badge/LibGDX-black?style=for-the-badge&logo=LibGDX&logoColor=black&labelColor=orange)](https://libgdx.com/)
+[![Kryonet](https://img.shields.io/badge/Kryonet-black?style=for-the-badge&logoColor=black&labelColor=orange)](https://github.com/EsotericSoftware/kryonet)
 [![Swing](https://img.shields.io/badge/swing-black?style=for-the-badge&logoColor=black&labelColor=orange)](#)
 [![Java Servlets](https://img.shields.io/badge/Java_Servlets-black?style=for-the-badge&logoColor=black&labelColor=orange)](#)
 [![JSP](https://img.shields.io/badge/JSP-black?style=for-the-badge&logoColor=black&labelColor=orange)](#)
 [![EJS](https://img.shields.io/badge/EJS-black?style=for-the-badge&logoColor=black&labelColor=orange)](#)
+[![FluentAssertions](https://img.shields.io/badge/FluentAssertions-black?style=for-the-badge&logo=&logoColor=black&labelColor=orange)](https://fluentassertions.com/)
+[![MonoGame.Extended](https://img.shields.io/badge/MonoGame.Extended-black?style=for-the-badge&logo=&logoColor=black&labelColor=orange)](https://www.monogameextended.net/)
+[![MyraUI](https://img.shields.io/badge/MyraUI-black?style=for-the-badge&logo=&logoColor=black&labelColor=orange)](https://github.com/rds1983/Myra)
+[![LiteNetLib](https://img.shields.io/badge/LiteNetLib-black?style=for-the-badge&logo=&logoColor=black&labelColor=orange)](https://github.com/RevenantX/LiteNetLib)
 
 ### Testing / methodologies
 
