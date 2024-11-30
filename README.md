@@ -2,8 +2,6 @@
 
 `//TODO: Ask Mr.GPT to generate GitHub profile summary.`
 
----
-
 ### Web Dev stack
 
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=black&labelColor=orange)](#)
