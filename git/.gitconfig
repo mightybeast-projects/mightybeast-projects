@@ -1,11 +1,16 @@
+[user]
+	name = MightyBeast
+	email = zgpoter@gmail.com
+[core]
+	editor = code --wait
 [alias]
 	comfeat = !sh -c 'git add -A && git commit -m \"-feat- : $1\"' -
 	comfix = !sh -c 'git add -A && git commit -m \"-fix- : $1\"' -
 	comchore = !sh -c 'git add -A && git commit -m \"-chore- : $1\"' -
 	comref = !sh -c 'git add -A && git commit -m \"-refactor- : $1\"' -
 	comamend = !sh -c 'git add -A && git commit --amend --no-edit' -
-[user]
-	name = MightyBeast
-	email = zgpoter@gmail.com
 [merge]
 	ff = false
+	commit = no
+[pull]
+	ff = yes

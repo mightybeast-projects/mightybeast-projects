@@ -1,37 +1,226 @@
 // Place your key bindings in this file to override the defaultsauto[]
 [
-    {
-        "key": "ctrl+f f",
-        "command": "testing.runAll"
-    },
-    {
-        "key": "ctrl+; a",
-        "command": "-testing.runAll"
-    },
-    {
-        "key": "ctrl+f g",
-        "command": "git-graph.view"
-    },
-    {
-        "key": "ctrl+f r",
-        "command": "testing.refreshTests",
-        "when": "testing.canRefresh"
-    },
-    {
-        "key": "ctrl+; ctrl+r",
-        "command": "-testing.refreshTests",
-        "when": "testing.canRefresh"
-    },
-    {
-        "key": "ctrl+f s",
-        "command": "csharp-helper.fix-filename"
-    },
-    {
-        "key": "ctrl+f c",
-        "command": "testing.clearTestResults"
-    },
-    {
-        "key": "ctrl+f n",
-        "command": "csharp-helper.fix-namespace"
-    }
+	{
+		"key": "ctrl+f t",
+		"command": "testing.runAll"
+	},
+	{
+		"key": "ctrl+; a",
+		"command": "-testing.runAll"
+	},
+	{
+		"key": "shift+`",
+		"command": "workbench.action.terminal.focus"
+	},
+	{
+		"key": "ctrl+f g",
+		"command": "git-graph.view"
+	},
+	{
+		"key": "ctrl+f r",
+		"command": "testing.refreshTests",
+		"when": "testing.canRefresh"
+	},
+	{
+		"key": "ctrl+; ctrl+r",
+		"command": "-testing.refreshTests",
+		"when": "testing.canRefresh"
+	},
+	{
+		"key": "ctrl+f s",
+		"command": "csharp-helper.fix-filename"
+	},
+	{
+		"key": "ctrl+f c",
+		"command": "testing.clearTestResults"
+	},
+	{
+		"key": "ctrl+f n",
+		"command": "csharp-helper.fix-namespace"
+	},
+	{
+		"key": "ctrl+k j",
+		"command": "workbench.view.explorer",
+		"when": "editorFocus && viewContainer.workbench.view.explorer.enabled"
+	},
+	{
+		"key": "alt+1",
+		"command": "-workbench.view.explorer",
+		"when": "editorFocus && viewContainer.workbench.view.explorer.enabled"
+	},
+	{
+		"key": "ctrl+k j",
+		"command": "workbench.action.toggleSidebarVisibility",
+		"when": "!editorFocus"
+	},
+	{
+		"key": "alt+1",
+		"command": "-workbench.action.toggleSidebarVisibility",
+		"when": "!editorFocus"
+	},
+	{
+		"key": "ctrl+f d",
+		"command": "workbench.action.terminal.sendSequence",
+		"args": {
+			"text": "npm run dev\r"
+		}
+	},
+	{
+		"key": "ctrl+f s",
+		"command": "workbench.action.terminal.sendSequence",
+		"args": {
+			"text": "npm run seed\r"
+		}
+	},
+	{
+		"key": "ctrl+f e",
+		"command": "workbench.action.terminal.sendSequence",
+		"args": {
+			"text": "npm run test:e2e\r"
+		}
+	},
+	{
+		"key": "ctrl+f r",
+		"command": "workbench.action.terminal.sendSequence",
+		"args": {
+			"text": "pm2 restart all\r"
+		}
+	},
+	{
+		"key": "ctrl+f b",
+		"command": "workbench.action.terminal.sendSequence",
+		"args": {
+			"text": "npm run build\r"
+		}
+	},
+	{
+		"key": "ctrl+f p",
+		"command": "workbench.action.terminal.sendSequence",
+		"args": {
+			"text": "npm run prod\r"
+		}
+	},
+	{
+		"key": "shift+escape",
+		"command": "-cancelLinkedEditingInput",
+		"when": "LinkedEditingInputVisible && editorTextFocus"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-cancelRenameInput",
+		"when": "editorFocus && renameInputVisible"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-cancelSelection",
+		"when": "editorHasSelection && textInputFocus"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-closeBreakpointWidget",
+		"when": "breakpointWidgetVisible && textInputFocus"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-closeDirtyDiff",
+		"when": "dirtyDiffVisible"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-closeFindWidget",
+		"when": "editorFocus && findWidgetVisible && !isComposing"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-closeMarkersNavigation",
+		"when": "editorFocus && markersNavigationVisible"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-closeParameterHints",
+		"when": "editorFocus && parameterHintsVisible"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-closeReferenceSearch",
+		"when": "inReferenceSearchEditor && !config.editor.stablePeek"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-closeReferenceSearch",
+		"when": "editorTextFocus && referenceSearchVisible && !config.editor.stablePeek || referenceSearchVisible && !config.editor.stablePeek && !inputFocus"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-hideCodeActionWidget",
+		"when": "codeActionMenuVisible"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-hideSuggestWidget",
+		"when": "suggestWidgetVisible && textInputFocus"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-leaveSnippet",
+		"when": "inSnippetMode && textInputFocus"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-removeSecondaryCursors",
+		"when": "editorHasMultipleSelections && textInputFocus"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-workbench.action.closeQuickOpen",
+		"when": "inQuickOpen"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-workbench.action.hideComment",
+		"when": "commentEditorFocused"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-workbench.action.terminal.chat.close",
+		"when": "terminalChatFocus && terminalChatVisible"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-workbench.action.terminal.hideFind",
+		"when": "terminalFindVisible && terminalFocusInAny && terminalHasBeenCreated || terminalFindVisible && terminalFocusInAny && terminalProcessSupported"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-workbench.action.toggleSidebarVisibility",
+		"when": "sideBarFocus"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-workbench.action.toggleAuxiliaryBar",
+		"when": "auxiliaryBarFocus"
+	},
+	{
+		"key": "shift+escape",
+		"command": "-workbench.action.togglePanel",
+		"when": "panelFocus"
+	},
+	{
+		"key": "shift+escape",
+		"command": "workbench.action.togglePanel"
+	},
+	{
+		"key": "ctrl+j",
+		"command": "-workbench.action.togglePanel"
+	},
+	{
+		"key": "ctrl+f ctrl+t",
+		"command": "testing.runCurrentFile",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+; f",
+		"command": "-testing.runCurrentFile",
+		"when": "editorTextFocus"
+	}
 ]

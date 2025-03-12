@@ -1,48 +1,125 @@
 {
-    "workbench.colorTheme": "Darcula Theme from IntelliJ",
-    "workbench.colorCustomizations": {
-        "[Darcula Theme from IntelliJ]": {
-            "button.background": "#ff6200",
-            "inputOption.activeForeground": "#ff6200",
-            "selection.background": "#ff6200",
-            "textLink.foreground": "#ff6200",
-            "textLink.activeForeground": "#ff6200",
-            "focusBorder": "#ff6200",
-            "tab.inactiveBackground": "#202020",
-            "activityBar.activeBorder": "#ff6200",
-            "activityBar.background": "#000000",
-            "activityBar.foreground": "#ff6200",
-            "activityBarBadge.background": "#ff6200",
-            "sideBar.background": "#0e0e0e",
-            "list.activeSelectionBackground": "#ff6200c7",
-            "editorSuggestWidget.background": "#0e0e0e",
-            "editorSuggestWidget.border": "#000000",
-            "editorSuggestWidget.highlightForeground": "#ff6200",
-            "editorSuggestWidget.focusHighlightForeground": "#ffffff",
-            "statusBar.background": "#000000",
-            "statusBar.foreground": "#ff6200",
-            "editor.background": "#161616",
-            "editor.selectionBackground": "#ff62007e"
-        }
-    },
-    "git.enableSmartCommit": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.suggestSelection": "first",
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "editor.fontSize": 18,
-    "editor.rulers": [
-        80
-    ],
-    "window.zoomLevel": 0.5,
-    "terminal.integrated.fontSize": 18,
-    "dotnet-test-explorer.codeLensPassed": "Passed",
-    "dotnet-test-explorer.codeLensFailed": "Failed",
-    "dotnet-test-explorer.codeLensSkipped": "Skipped",
-    "dotnet-test-explorer.addProblems": false,
-    "dotnet-test-explorer.treeMode": "full",
-    "breadcrumbs.enabled": false,
-    "editor.renderWhitespace": "none",
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "typescript.updateImportsOnFileMove.enabled": "always"
+	"workbench.colorTheme": "Darcula Theme from IntelliJ",
+	"workbench.colorCustomizations": {
+		"[Darcula Theme from IntelliJ]": {
+			"button.background": "#ff6200",
+			"inputOption.activeForeground": "#ff6200",
+			"selection.background": "#ff6200",
+			"textLink.foreground": "#ff6200",
+			"textLink.activeForeground": "#ff6200",
+			"focusBorder": "#ff6200",
+			"tab.inactiveBackground": "#202020",
+			"activityBar.activeBorder": "#ff6200",
+			"activityBar.background": "#000000",
+			"activityBar.foreground": "#ff6200",
+			"activityBarBadge.background": "#ff6200",
+			"sideBar.background": "#0e0e0e",
+			"list.activeSelectionBackground": "#ff6200c7",
+			"editorSuggestWidget.background": "#0e0e0e",
+			"editorSuggestWidget.border": "#000000",
+			"editorSuggestWidget.highlightForeground": "#ff6200",
+			"editorSuggestWidget.focusHighlightForeground": "#ffffff",
+			"statusBar.background": "#000000",
+			"statusBar.noFolderBackground": "#000000",
+			"statusBar.foreground": "#ff6200",
+			"editor.background": "#161616",
+			"editor.selectionBackground": "#ff62007e"
+		}
+	},
+	"git.enableSmartCommit": true,
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.suggestSelection": "first",
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"editor.fontSize": 18,
+	"editor.rulers": [{ "column": 80, "color": "#ffffff13" }, 100],
+	"terminal.integrated.fontSize": 18,
+	"testing.automaticallyOpenPeekView": "never",
+	"testing.automaticallyOpenPeekViewDuringAutoRun": false,
+	"testing.alwaysRevealTestOnStateChange": false,
+	"dotnet-test-explorer.codeLensPassed": "Passed",
+	"dotnet-test-explorer.codeLensFailed": "Failed",
+	"dotnet-test-explorer.codeLensSkipped": "Skipped",
+	"dotnet-test-explorer.addProblems": false,
+	"dotnet-test-explorer.treeMode": "full",
+	"editor.renderWhitespace": "none",
+	"editor.foldingHighlight": false,
+	"editor.folding": false,
+	"editor.guides.indentation": false,
+	"editor.minimap.showSlider": "always",
+	"editor.minimap.renderCharacters": false,
+	"editor.formatOnSave": true,
+	"workbench.startupEditor": "none",
+	"security.workspace.trust.startupPrompt": "never",
+	"files.hotExit": "off",
+	"editor.acceptSuggestionOnCommitCharacter": false,
+	"debug.openDebug": "neverOpen",
+	"editor.stickyScroll.enabled": true,
+	"accessibility.dimUnfocused.enabled": true,
+	"omnisharp.path": "latest",
+	"cmake.configureOnOpen": false,
+	"workbench.editor.empty.hint": "hidden",
+	"editor.unicodeHighlight.includeStrings": false,
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"files.associations": {
+		"*.mustache": "html"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"update.showReleaseNotes": false,
+	"update.mode": "none",
+	"extensions.autoUpdate": false,
+	"cmake.showOptionsMovedNotification": false,
+	"[vue]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"prettier.tabWidth": 4,
+	"prettier.printWidth": 100,
+	"prettier.useTabs": true,
+	"typescript.referencesCodeLens.enabled": true,
+	"typescript.format.semicolons": "insert",
+	"[css]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	},
+	"typescript.referencesCodeLens.showOnAllFunctions": true,
+	"typescript.implementationsCodeLens.enabled": true,
+	"typescript.implementationsCodeLens.showOnInterfaceMethods": true,
+	"vetur.validation.template": false,
+	"vetur.validation.script": false,
+	"vetur.validation.style": false,
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"jest.runMode": "on-demand",
+	"diffEditor.renderSideBySide": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": "always"
+	},
+	"window.commandCenter": false,
+	"workbench.layoutControl.enabled": false,
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[PHP]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"css.lint.unknownAtRules": "ignore",
+	"auto-rename-tag.activationOnLanguage": ["*"],
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"javascript.updateImportsOnFileMove.enabled": "never",
+	"[php]": {
+		"editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+	},
+	"php.problems.exclude": {
+		"/": ["php_short_array_syntax", "PHP0417", "PHP0415"]
+	},
+	"php.inlayHints.parameters.enabled": false,
+	"javascript.referencesCodeLens.enabled": true,
+	"javascript.referencesCodeLens.showOnAllFunctions": true
 }
