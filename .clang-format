@@ -1,0 +1,21 @@
+BasedOnStyle: WebKit
+ColumnLimit: 80
+IndentWidth: 4
+NamespaceIndentation: All
+BreakConstructorInitializers: BeforeColon
+ConstructorInitializerAllOnOneLineOrOnePerLine: false
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterNamespace: true
+  AfterEnum: true
+  AfterStruct: true
+  AfterClass: true
+  AfterFunction: true
+  AfterControlStatement: true
+  SplitEmptyFunction: false
+AllowShortBlocksOnASingleLine: false 
+AllowAllParametersOfDeclarationOnNextLine: false
+BinPackParameters: false
+BinPackArguments: false
+AllowShortFunctionsOnASingleLine: Empty
+SplitEmptyFunction: false
