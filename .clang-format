@@ -13,10 +13,13 @@ BraceWrapping:
   AfterFunction: true
   AfterControlStatement: true
   SplitEmptyFunction: false
-AllowShortBlocksOnASingleLine: false 
-AllowAllParametersOfDeclarationOnNextLine: false
+  BeforeElse: true
+AllowShortBlocksOnASingleLine: false
 BinPackParameters: false
-BinPackArguments: false
+BinPackArguments: true
 AllowShortFunctionsOnASingleLine: Empty
 SplitEmptyFunction: false
-AlignArrayOfStructures: Left
+AlwaysBreakTemplateDeclarations: true
+AllowAllArgumentsOnNextLine: true
+AllowAllParametersOfDeclarationOnNextLine: false
+AlignArrayOfStructures: None
