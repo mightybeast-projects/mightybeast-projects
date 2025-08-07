@@ -1,6 +1,10 @@
 # 👋 Hello there, my name is Eugene!
 
-`//TODO: Ask Mr.GPT to generate GitHub profile summary.`
+👨‍💻 Passionate web/game developer who always strives to learn something new.<br>
+☀️ By day, I build web apps with clean, scalable code.<br>
+🌕️ By night, I dive into game dev, crafting gameplay, mechanics, and pixel-perfect UIs.<br>
+🔧 Working with C#, C++, JavaScript, and modern web frameworks.<br>
+🕹️ Making games from scratch (yes, memory management included).
 
 ### Web Dev stack
 
