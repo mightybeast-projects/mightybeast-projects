@@ -1,12 +1,10 @@
-## 👋 Hello there, my name is Eugene!
+# 👋 Hello there, my name is Eugene!
 
 👨‍💻 Passionate web/game developer who always strives to learn something new.<br>
 ☀️ By day, I build web apps with clean, scalable code.<br>
 🌕️ By night, I dive into game dev, crafting gameplay, mechanics, and pixel-perfect UIs.<br>
 🔧 Working with C#, C++, JavaScript, and modern web frameworks.<br>
 🕹️ Making games from scratch (yes, memory management included).
-
----
 
 ### Web Dev stack
 
@@ -23,15 +21,11 @@
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=orange)](#)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sqlite&logoColor=black&labelColor=orange)](#)
 
----
-
 ### Game Dev stack
 
 [![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=black&labelColor=orange)](#)
 [![MonoGame](https://img.shields.io/badge/MonoGame-black?style=for-the-badge&logo=monogame&logoColor=black&labelColor=orange)](#)
 [![Raylib](https://img.shields.io/badge/raylib-black?style=for-the-badge&logo=raylib&logoColor=black&labelColor=orange)](#)
-
----
 
 ### Other languages
 
@@ -40,15 +34,11 @@
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=orange)](#)
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=black&labelColor=orange)](#)
 
----
-
 ### Other frameworks / technologies / libraries
 
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&labelColor=orange)](#)
 [![Godot](https://img.shields.io/badge/Godot-black?style=for-the-badge&logo=godotengine&logoColor=black&labelColor=orange)](#)
 [![OAuth](https://img.shields.io/badge/OAuth-black?style=for-the-badge&logo=auth0&logoColor=black&labelColor=orange)](#)
-
----
 
 ### Socials
 
